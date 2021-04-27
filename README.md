@@ -1,5 +1,6 @@
 # MoneyBagCollectingGame
-JavaFX game where the player moves a brief case to collect money bags.
+* JavaFX game where the player moves a brief case to collect money bags.
+* Code adopted from: https://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835
 
 ## Eclipse Setup
 * Used the following link to setup a new Eclipse Java Project: https://openjfx.io/openjfx-docs/
